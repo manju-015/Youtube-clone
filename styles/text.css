@@ -1,6 +1,6 @@
 
 p {
-    font-family: arial;
+    font-family: Roboto;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -37,6 +37,8 @@ p {
 }
 
 .apple-text{
+    width:fit-content;
+    max-width: 600px;
     margin-bottom: 50px;
     font-size: 14px;
     background-color: rgb(227, 65, 64);
